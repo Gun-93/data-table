@@ -3,8 +3,7 @@
 This project is built using **React (Vite)**, **Redux Toolkit**, and **Tailwind CSS**.  
 
 ---
-
-##  Live Features
+## Live Link deployed on Netlify : https://dtmfgc.netlify.app/
 
 ###  Table View
 - Displays a table with default columns:
